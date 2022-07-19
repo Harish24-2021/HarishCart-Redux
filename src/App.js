@@ -8,6 +8,7 @@ import ProductDetail from './Components/ProductDetail';
 function App() {
   return (
     <div className="App">
+      console.log('hi')
       <Header/>
       <Router>
       
